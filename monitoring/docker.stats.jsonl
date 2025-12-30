@@ -1,0 +1,2 @@
+{"BlockIO":"602MB / 9.77GB","CPUPerc":"0.26%","Container":"414ee3c32e36","ID":"414ee3c32e36","MemPerc":"6.48%","MemUsage":"775MiB / 11.68GiB","Name":"qdrant-single-node-qdrant_bench-1","NetIO":"1.56GB / 3.28MB","PIDs":"52"}
+{"BlockIO":"602MB / 9.77GB","CPUPerc":"0.32%","Container":"414ee3c32e36","ID":"414ee3c32e36","MemPerc":"6.48%","MemUsage":"775MiB / 11.68GiB","Name":"qdrant-single-node-qdrant_bench-1","NetIO":"1.56GB / 3.28MB","PIDs":"52"}

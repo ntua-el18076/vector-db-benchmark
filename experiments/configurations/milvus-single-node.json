@@ -14,7 +14,9 @@
     "name": "milvus-m-16-ef-128",
     "engine": "milvus",
     "connection_params": {},
-    "collection_params": {},
+    "collection_params": {
+    "mmap.enabled": true
+    },
     "search_params": [
       { "parallel": 1, "config": { "ef": 128 } }, { "parallel": 1, "config": { "ef": 256 } }, { "parallel": 1, "config": { "ef": 512 } },
       { "parallel": 100, "config": { "ef": 128 } }, { "parallel": 100, "config": { "ef": 256 } }, { "parallel": 100, "config": { "ef": 512 } }
